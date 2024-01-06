@@ -1,6 +1,3 @@
-// Jaysheel Pandya
-// CSE 143 DD with Xunmei Liu
-// Homework 1
 // A LetterInventory stores the number of instances each
 // letter in the alphabet occurs within the given String.
 
